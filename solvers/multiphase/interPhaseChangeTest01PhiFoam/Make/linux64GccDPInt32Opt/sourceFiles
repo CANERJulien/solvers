@@ -1,0 +1,4 @@
+SOURCE = \
+interPhaseChangeTest01PhiFoam.C \
+
+# sources
